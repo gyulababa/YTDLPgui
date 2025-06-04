@@ -1,0 +1,6 @@
+﻿# Ignore everything in ffmpeg/
+ffmpeg/**
+
+# Except the folder itself and .gitkeep file
+!ffmpeg/
+!ffmpeg/.gitkeep
